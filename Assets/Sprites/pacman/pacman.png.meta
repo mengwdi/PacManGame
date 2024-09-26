@@ -3,7 +3,7 @@ guid: 0c50cb16661eb634285aa273dcfd2e11
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -77,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -89,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -101,70 +103,113 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pac student_0
+      name: pacman_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 25
-        width: 94
-        height: 83
+        x: 4
+        y: 139
+        width: 116
+        height: 108
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8235afaee060174e87fc2468d745e62
-      internalID: -1504534845
+      spriteID: 8af798da2073d7940ac663f2d3139e0e
+      internalID: -1003316217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pac student_1
+      name: pacman_1
       rect:
         serializedVersion: 2
-        x: 146
-        y: 25
-        width: 94
-        height: 83
+        x: 132
+        y: 140
+        width: 116
+        height: 108
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f992e23d43049484fbc3162a9b0e00e3
-      internalID: -1835920691
+      spriteID: 0b2107f2509c9f84ab331551ffafccc6
+      internalID: -96019536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pac student_2
+      name: pacman_2
       rect:
         serializedVersion: 2
-        x: 274
-        y: 25
-        width: 94
-        height: 83
+        x: 260
+        y: 136
+        width: 120
+        height: 108
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d01114371b3c5b48b82789265fb8d4f
-      internalID: 498594965
+      spriteID: 66f9010ff714d2b4ea4a47948b5f6522
+      internalID: -1673645649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2fd143dd25dc04f86b2dcbc1f7350d
+      internalID: 1205366072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b53ccec2680449955c2a836513961
+      internalID: -1039450328
       vertices: []
       indices: 
       edges: []
@@ -180,9 +225,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pac student_0: -1504534845
-      pac student_1: -1835920691
-      pac student_2: 498594965
+      pacman_0: -1003316217
+      pacman_1: -96019536
+      pacman_2: -1673645649
+      pacman_3: 1205366072
+      pacman_4: -1039450328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

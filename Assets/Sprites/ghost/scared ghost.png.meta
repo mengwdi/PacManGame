@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e7dc04b38f0d51249b937661ead2f36f
+guid: 396bce3a9a4143441803f52f40880f4a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy3_0
+      name: scared ghost_0
       rect:
         serializedVersion: 2
         x: 22
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b00f0de08fa60f469bee8efe846cfa4
-      internalID: -1996544744
+      spriteID: ab2ab968303f79b42a80334cca494064
+      internalID: 1507771967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy3_1
+      name: scared ghost_1
       rect:
         serializedVersion: 2
         x: 150
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75028197bd921f44587157bec5367305
-      internalID: -1096798547
+      spriteID: 17c0f276a1081634d8726e7093738e23
+      internalID: 808291911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy3_2
+      name: scared ghost_2
       rect:
         serializedVersion: 2
         x: 278
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf099b589c340964ab4573601ecaa07a
-      internalID: 1697855070
+      spriteID: b020f334d7493564ba8db3aa938e9522
+      internalID: -2088764076
       vertices: []
       indices: 
       edges: []
@@ -183,9 +183,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Enemy3_0: -1996544744
-      Enemy3_1: -1096798547
-      Enemy3_2: 1697855070
+      scared ghost_0: 1507771967
+      scared ghost_1: 808291911
+      scared ghost_2: -2088764076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

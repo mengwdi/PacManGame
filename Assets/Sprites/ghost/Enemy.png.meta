@@ -3,7 +3,7 @@ guid: 1ee65ab333af65a47916c9f95f654e9c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -77,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -89,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -101,13 +103,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: empty_0
+      name: Enemy_0
       rect:
         serializedVersion: 2
         x: 22
@@ -121,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e350cf1e2e8438e459ba9ff10e1126f3
-      internalID: 1416620173
+      spriteID: 92bba108dedebfa41a8832709b8d990b
+      internalID: -1647830180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: empty_1
+      name: Enemy_1
       rect:
         serializedVersion: 2
         x: 150
@@ -142,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9850577cd5b9f434c9ebbe865ac2970a
-      internalID: 825396001
+      spriteID: 94b11c60c9756f0469365da18f5184a2
+      internalID: -1543802657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: empty_2
+      name: Enemy_2
       rect:
         serializedVersion: 2
         x: 278
@@ -163,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d13a9acdf0c52447a8d027af4c507e8
-      internalID: -486442796
+      spriteID: 630a428dc50d25c4da0c3774dc17df5d
+      internalID: -1357766746
       vertices: []
       indices: 
       edges: []
@@ -180,9 +183,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      empty_0: 1416620173
-      empty_1: 825396001
-      empty_2: -486442796
+      Enemy_0: -1647830180
+      Enemy_1: -1543802657
+      Enemy_2: -1357766746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
